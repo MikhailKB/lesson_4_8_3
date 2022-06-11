@@ -49,7 +49,3 @@ namespace lesson_4_8_3
         
     }
 }
-
-
-//if text == "стоп"
-//WriteLine("До встречи! Загадано было", n)
